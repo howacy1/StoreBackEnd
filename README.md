@@ -1,7 +1,7 @@
 # StoreBackEnd
 
 ## Purpose
-A command line application for the back end of an ecommerce store. See link for an example https://drive.google.com/file/d/1sXiO0_ZYVkcO4GilzJGpxL6JT3Mbyr7n/view?usp=share_link. 
+An application for the back end of an ecommerce store. See link for an example https://drive.google.com/file/d/1sXiO0_ZYVkcO4GilzJGpxL6JT3Mbyr7n/view?usp=share_link. 
 
 ## Installation
 
